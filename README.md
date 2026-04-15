@@ -12,8 +12,6 @@ Mobile diabetes monitoring application focused on glucose tracking, health data 
 
 Vanessa Rasubala
 
-If you want to use this repository in your portfolio, you can add your GitHub, LinkedIn, or portfolio links here before publishing.
-
 ## Overview
 
 The app guides users from sign in to profile setup, then into a glucose monitoring dashboard. Users can record new measurements, review previous entries, inspect charts for a selected date, and view analysis results with reasons and guidance.
